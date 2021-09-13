@@ -1,16 +1,19 @@
-# Readme GitHub
-
 ### Hi there 👋, I am Kshitij Ambilduke
-#### I try to make Machine Learning models which sometimes classify dogs as cat.
-![I am 99% sure that I am a Machine learning enthusiast according to a 6 layer deep network with a loss of 0.002](https://github.com/Kshitij-Ambilduke/Kshitij-Ambilduke/blob/main/sit-with-me.gif)
+#### I am a Machine learning enthusiast who try to make models that rarely classify dogs as cat.
+![I try to make Machine Learning models which sometimes classify dogs as cat.](https://c.tenor.com/2Q8JaXFW_lMAAAAC/asdf-hay.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am currently working at [**IvLabs**](https://www.ivlabs.in/), the AI and Robotics community of [**VNIT, Nagpur**](https://vnit.ac.in/)
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- 😄 I am a pre-final year student pursuing Bachelors in Electronics and Communication Engineering 
+- 🔭 I’m currently working on Contrastive and Multimodal Learning 
+- 🌱 I’m have been studying Deep Learning models and its application to Visual and Lingual domain.
+- 🤝I’m up for collaborating over Deep Learning, Natural Language Processing, Multimodal Learning projects.
+- 💬 Ping me if you want to know anything about me on kshitijambilduke1@gmail.com
 
-- 🔭 I’m currently working on this page. 
 
 
+[![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kshitij-Ambilduke)](https://github.com/anuraghazra/github-readme-stats)<br />
+![Profile views](https://gpvc.arturio.dev/Kshitij-Ambilduke) 
 
 
 
