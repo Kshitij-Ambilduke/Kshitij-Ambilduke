@@ -7,7 +7,7 @@ I am currently working at [**IvLabs**](https://www.ivlabs.in/), the AI and Robot
 - 😄 I am a pre-final year student pursuing Bachelors in Electronics and Communication Engineering 
 - 🔭 I’m currently working on Contrastive and Multimodal Learning 
 - 🌱 I have been studying Deep Learning models and its application to Visual and Lingual domain.
-- 🤝I’m up for collaborating over Deep Learning, Natural Language Processing, Multimodal Learning projects.
+- 🤝 I’m up for collaborating over Deep Learning, Natural Language Processing, Multimodal Learning projects.
 - 💬 Ping me if you want to know anything about me on kshitijambilduke1@gmail.com
 
 
