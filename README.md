@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Kshitij Ambilduke
-#### I am a Machine learning enthusiast who try to make models that rarely classify dogs as cat.
+#### I am a Machine learning enthusiast who tries to make models that rarely classify dogs as cat.
 ![I try to make Machine Learning models which sometimes classify dogs as cat.](https://github.com/Kshitij-Ambilduke/Kshitij-Ambilduke/blob/main/baymax.gif)
 
 I am currently working at [**IvLabs**](https://www.ivlabs.in/), the AI and Robotics community of [**VNIT, Nagpur**](https://vnit.ac.in/)
