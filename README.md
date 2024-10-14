@@ -4,8 +4,8 @@
 
 I am currently pursuing my master's in computer science (Artificial Intelligence track) at Université Paris-Saclay. Previously, I worked as a trainee researcher at the Instituto de Telecomunicações, Lisbon.
 
-- 😄 I am a recent graduate from VNIT, India (B.Tech. in Electronics and Communication Engineering) 
-- 🔭 I’m currently working on Language Modelling and Multimodal Learning 
+- 😄 I graduated from VNIT, India in 2023, I completed by B.Tech. in Electronics and Communication Engineering from there. 
+- 🔭 I’m currently working on Language Modelling and Multimodal Learning.
 - 🌱 I have been studying Deep Learning models and its application to Visual, Lingual and speech domains.
 - 🤝 I’m up for collaborating over Deep Learning, Natural Language Processing, Multimodal Learning projects.
 - 💬 Ping me if you want to know anything about me on kshitij.a.vnit@gmail.com
